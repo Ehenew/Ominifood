@@ -299,6 +299,11 @@
     font-size: 2rem;
     font-weight: 600;
   }
+
+  .nav_link.nav-contact:link,
+  .nav_link.nav-contact:visited {
+    border: none;
+  }
 }
 
 /* ********************************************* */
