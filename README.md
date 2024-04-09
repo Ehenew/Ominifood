@@ -1,12 +1,14 @@
-Hello there, I'am Ehenew Amogne. This repository contains the source code for my portfolio website, showcasing my skills, projects, and contact information.
+# Hello there, I'am Ehenew Amogne. This repository contains the source code for my portfolio website, showcasing my skills, projects, and contact information.
 
 ## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
+- [Hello there, I'am Ehenew Amogne. This repository contains the source code for my portfolio website, showcasing my skills, projects, and contact information.](#hello-there-iam-ehenew-amogne-this-repository-contains-the-source-code-for-my-portfolio-website-showcasing-my-skills-projects-and-contact-information)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [How to Use](#how-to-use)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Description
 This portfolio website serves as an online resume for Ehenew Amogne, a software engineer. It provides information about my background, education, projects, and contact details.
