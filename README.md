@@ -28,8 +28,8 @@ This portfolio website serves as an online resume for Ehenew Amogne, a software 
 - Ionicons
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/yourusername/ehenew-amogne-portfolio.git`
-2. Navigate to the project directory: `cd ehenew-amogne-portfolio`
+1. Clone the repository: `git clone https://github.com/Ehenew/Portfolio.git`
+2. Navigate to the project directory: `cd Ehenew/Portfolio`
 3. Open `index.html` in a web browser.
 
 ## Contributing
