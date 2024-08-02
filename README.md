@@ -1,2 +1,2 @@
-[GO to website](https://omnifood-ehenew.netlify.app/)
+[Visit Website](https://omnifood-ehenew.netlify.app/)
 
